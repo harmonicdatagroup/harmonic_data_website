@@ -1,0 +1,18 @@
+name: "harmonic_data_website"
+title: "harmonicdata.org"
+theme: theme.css
+description: |
+  Harmonic Data Group
+output_dir: "docs"
+navbar:
+  right:
+    - text: 'Trains'
+      href: index.html
+    - text: "Birds"
+      href: birds.html
+#    - text: "Houses"
+#      href: dash3.html
+    - text: "Contact"
+      href: contact.html
+output:
+    distill::distill_article
