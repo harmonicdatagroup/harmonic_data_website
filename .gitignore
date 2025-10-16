@@ -2,6 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
 
 *.Rmd
 *.Rproj
+
+ga_info.readme
+*/ga_info.readme
