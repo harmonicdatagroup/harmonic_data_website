@@ -2,17 +2,17 @@
   "articles": [
     {
       "path": "birds.html",
-      "title": "hidden title",
+      "title": "Birds",
       "author": [],
       "contents": "\n\n\n\n\n\n\n\n",
-      "last_modified": "2025-10-22T11:47:03+11:00"
+      "last_modified": "2025-10-22T11:52:39+11:00"
     },
     {
       "path": "contact.html",
       "title": "Contact Us",
       "author": [],
       "contents": "\n\n\n\n\n \n\n\n\nGot a dataset you’d like to bring to life?\nWe’d love to hear from you!\nharmonicdatagroup@gmail.com\n\n\n\n\n",
-      "last_modified": "2025-10-22T11:47:08+11:00"
+      "last_modified": "2025-10-22T11:52:42+11:00"
     },
     {
       "path": "index.html",
@@ -20,7 +20,7 @@
       "description": "distill_website",
       "author": [],
       "contents": "\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2025-10-22T11:47:14+11:00"
+      "last_modified": "2025-10-22T11:52:43+11:00"
     }
   ],
   "collections": []
