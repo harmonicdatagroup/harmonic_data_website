@@ -1,5 +1,5 @@
 name: "harmonic_data_website"
-title: "harmonicdata.org"
+title: "Harmonic Data Group"
 theme: theme.css
 description: |
   Harmonic Data Group
@@ -10,7 +10,7 @@ navbar:
       href: index.html
     - text: "Birds"
       href: birds.html
-#    - text: "Houses"
+#    - text: "Books"
 #      href: dash3.html
     - text: "Contact"
       href: contact.html
